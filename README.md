@@ -35,4 +35,37 @@ This project performs sentiment analysis on Twitter data using natural language 
 ---
 
 ## 📂 File Structure
+TwitterSentimentAnalysisNLP/
+│
+├── TwitterSentimentAnalysis.ipynb # Colab notebook
+├── training.1600000.processed.noemoticon.csv # Dataset (optional, or link via Kaggle)
+
+---
+
+## 🚀 How to Run
+
+1. Click the badge above to open in Google Colab.  
+2. Upload your `kaggle.json` file if loading dataset via API.  
+3. Run all cells.
+
+---
+
+## 📌 Acknowledgements
+
+- Tutorial followed from [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- Dataset by [@kazanova](https://www.kaggle.com/datasets/kazanova)
+
+---
+
+## 🧠 Future Improvements
+
+- Add sentiment visualization (word clouds, pie charts)  
+- Deploy model via Flask or Streamlit  
+- Add multiclass sentiment labels (neutral)
+
+---
+
+## 🤝 Connect
+
+Made with ❤️ by [Abin Abey](https://github.com/AbinTAbey)
 
