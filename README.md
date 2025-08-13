@@ -38,7 +38,7 @@ This project performs sentiment analysis on Twitter data using natural language 
 TwitterSentimentAnalysisNLP/
 │
 ├── TwitterSentimentAnalysis.ipynb # Colab notebook
-├── training.1600000.processed.noemoticon.csv # Dataset (optional, or link via Kaggle)
+├── training.1600000.processed.noemoticon.csv # Dataset (Twitter sentiment analysis via Kaggle)
 
 ---
 
