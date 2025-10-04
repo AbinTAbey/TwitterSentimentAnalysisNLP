@@ -220,9 +220,9 @@ Processed: "switchfoot awww bummer"
 <h2>👤 Author</h2>
 <p>
 <strong>Your Name</strong><br />
-GitHub: <a href="https://github.com/yourusername">@yourusername</a><br />
-LinkedIn: <a href="https://linkedin.com/in/yourprofile">Your Name</a><br />
-Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a>
+GitHub: <a href="https://github.com/yourusername">@y/a><br />
+LinkedIn: <a href="https://linkedin.com/in/yourprofile">.</a><br />
+Portfolio: <a href="https://yourportfolio.com">portfolio.com</a>
 </p>
 
 <hr />
